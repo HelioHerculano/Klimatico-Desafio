@@ -2,7 +2,7 @@
 
 ##  Desafio || Aplicação de temperatura.
 
-Apresento esta aplicação que proposta como desafio
+Apresento esta aplicação que foi proposta como desafio
 
 ### Funcinamento
 
